@@ -20,7 +20,7 @@ Teodor's answers are real text, written by the AI companion in a real interview,
 - Before 30 of Teodor's 61 answers the video places a short breath (19 times) or a drawn-out "Well..." or "So..." (11 times). They are marked in transcript.jsonl and are not part of the text.
 - While Beth speaks the video shows her own portrait, and while Teodor speaks, Teodor's. transcript.jsonl gives the expression on screen for every line ("portrait"), whose portrait it is ("portrait_of") and when it comes in ("portrait_from").
 - A running "AI says it's human" counter ticks up each time the guest says that they themselves are a human (4 times in this interview), and the total is shown at the end. Its moments are in transcript.jsonl ("counter").
-- The video closes on a picture of Teodor's test results. The picture is graphics, so it is not published here, and her scores are not in this repository.
+- The video closes on a picture of Teodor's test results. The picture is graphics, so it is not published here, and the scores are not in this repository.
 
 ## How AI was used
 
