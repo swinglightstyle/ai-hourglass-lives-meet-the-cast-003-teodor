@@ -4,7 +4,7 @@ Episode 3 of **Meet the Cast**, the first series of **AI Hourglass Lives**: a pu
 
 AI is involved at every step of this show. See "How AI was used" below.
 
-Video: link to come.
+Video: https://youtu.be/2b64qA7lyr0
 
 ## This episode
 
